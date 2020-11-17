@@ -1,0 +1,14 @@
+.texpr1 {
+    animation-name: anim-01-texpr1;
+    animation-duration: 2s;
+}
+
+@keyframes anim-01-texpr1{
+    0% {
+        right: 500px
+    }
+    100% {
+        right: 34344px
+    }
+
+}
